@@ -171,9 +171,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{marl_tom_2024,
+@article{marl_tom_2025,
   title={Multi-Agent Reinforcement Learning with Theory of Mind},
-  author={Your Name},
+  author={Mudit Gaur},
   journal={arXiv preprint},
   year={2024}
 }
@@ -183,3 +183,4 @@ If you use this code in your research, please cite:
 
 - Email: your.email@example.com
 - GitHub Issues: [https://github.com/yourusername/MARL_ToM/issues](https://github.com/yourusername/MARL_ToM/issues)
+
