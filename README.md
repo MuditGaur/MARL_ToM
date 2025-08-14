@@ -175,7 +175,7 @@ If you use this code in your research, please cite:
   title={Multi-Agent Reinforcement Learning with Theory of Mind},
   author={Mudit Gaur},
   journal={arXiv preprint},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -183,4 +183,5 @@ If you use this code in your research, please cite:
 
 - Email: your.email@example.com
 - GitHub Issues: [https://github.com/yourusername/MARL_ToM/issues](https://github.com/yourusername/MARL_ToM/issues)
+
 
